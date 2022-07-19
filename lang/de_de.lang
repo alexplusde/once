@@ -3,3 +3,6 @@ once_title: PHP ausführen
 # Konfigurationsformulare
 once_config = Einstellungen
 once_input_label = Code-Eingabe
+
+once_input = PHP-Code eingeben
+once_result = Ergebnis / Ausgabe
